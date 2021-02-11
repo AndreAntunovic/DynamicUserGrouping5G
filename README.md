@@ -1,4 +1,4 @@
-- Since a paper is currently in work for this research project, the full ReadMe will not be published until after the publication of the final paper.
+Since a paper is currently in work for this research project, the full ReadMe will not be published until after the publication of the final paper.
 
 # Dynamic Sectorization in Multi-Panel Massive MIMO Systems
 - Dynamic user grouping in multi-panel massive MIMO scenario for 5G networks. 
