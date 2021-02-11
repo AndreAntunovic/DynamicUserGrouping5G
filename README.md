@@ -3,7 +3,7 @@ Since a paper is currently in work for this research project, the full ReadMe wi
 # Dynamic Sectorization in Multi-Panel Massive MIMO Systems
 - Dynamic user grouping in multi-panel massive MIMO scenario for 5G networks. 
 
-## Dynamic User-Grouping in MU-MIMO  - Scenario 
+## Scenario 
 
 - Investigation of a multi-panel base transceiver station (BTS) architecture for the realization of a massive MIMO system
 - Opposite to conventional massive MIMO with a single BTS, where many antennas are co-located in one single large panel, it is assumed distributing the antennas into multiple panels to be more cost-efficient for future communication standards
