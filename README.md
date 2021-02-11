@@ -15,48 +15,10 @@ Since a paper is currently in work for this research project, the full ReadMe wi
 ![Farmers Market Finder Demo](ImagesDynamicSec/Scenario.gif)
 
 
-## Approaching the problem via discrete mathematical optimisation by use of the Stirling Numbers
-
-### Relation to Bipartite Graphs
-- A graph H is bipartite if its nodes can be partitioned into two sets 𝑉<sub>1</sub>, 𝑉<sub>2</sub> so that every edge joins a node in V<sub>1</sub> to a node in V<sub>2</sub>
-- Bipartite graphs only contain cycles of even length
-- Adapting the given problem to graph theory, the channel matrix  translates to the graph and the panels and users can be described as the sets of nodes V<sub>1</sub> and V<sub>2</sub>  
-- Partitioning a bipartite graph is an equivalent problem to sectorizing the panels and users in a Multi-Panel MIMO system
-
-
-
-![Farmers Market Finder Demo](ImagesDynamicSec/IP.gif)
-
-<!---
-
-### Exploiting the Stirling Numbers of the second kind to simplify the IP structure
-
-- On one side of the bipartite graph only eight nodes are representing the panels
-- Sticking to the IP problem which is to be solved, the number of partitions needs to be fixed
-- Reconsidering the placement of the panels (around the edges of a building), four partitions seem to be reasonable out of a geometric point of view, which leads to a total of only 1701 possibilities of partitioning the eight panels
-- Since there shouldn‘t be one division that is much bigger than the others some sorts of divisions were excluded which leads to a further reduction of the number of possibilities after the exclusion
-
-
-![Farmers Market Finder Demo](ImagesDynamicSec/IP2Stirling.gif)
-
-
-## Local Movebased Heuristic helps to further improve the results
-
-- Nodes are partitioned according to the best IP solution
-- Throughout the iterations the users are selected in an arbitrary order and put into all possible partitions. For each possibility, the spectral efficiency is calculated and the user is locked to the partition for which the spectral efficiency is maximal. 
-- If the spectral efficiency is maximal for more than one possible partition or even equal for all possibilities, the user is placed arbitrarily in one partition
-- After all nodes are locked, the change in the result value is checked. If the completed iteration increases the value of the spectral efficiency, a new iteration starts by configuring the initial state with the best found in the previous iteration. Otherwise, iterations end and the best solution is returned 
-- Throughout the whole process the division into partitions on the panel side remains unchanged
-
-
-![Farmers Market Finder Demo](ImagesDynamicSec/MoveBased.gif) 
-
---->
-
 
 ## Simulation Results
 
-- Combination of IP based and greedy algorithm boosts the rate by over 70%
+- Developed algorithm boosts the sum-rate in a practical downlink scenario by over 70%
 
 
 
