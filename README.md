@@ -18,6 +18,6 @@ Since a paper is currently in work for this project, the full ReadMe will not be
 
 ## Results
 
-- The developed algorithm is a combination of solving a Mixed Integer Program followed by a greedy local optimization technique
+- The developed algorithm is a combination of a Mixed Integer Program followed by a greedy local optimization technique
 - The approach boosts the sum-rate in a practical downlink scenario by over 70% compared to the centralized scheme
 - Short runtime makes the algorithm useable for practical applications
