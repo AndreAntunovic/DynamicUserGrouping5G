@@ -5,7 +5,7 @@ Since a paper is currently in work for this research project, the full ReadMe wi
 
 ## Scenario 
 
-- Investigation of a multi-panel base transceiver station (BTS) architecture for the realization of a massive MIMO system
+- Investigation of a multi-panel base transceiver station (BTS) architecture for the realization of a massive MIMO system for 5G / Beyond 5G
 - Opposite to conventional massive MIMO with a single BTS, where many antennas are co-located in one single large panel, it is assumed distributing the antennas into multiple panels to be more cost-efficient for future communication standards
 - A big challenge is to find good associations, in the sense of best possible spectral efficiency, of users and panels by the realization of a dynamic sectorization with user-centric virtual cells for the multi-panel BTS
 - The different BTSs are assumed to be connected to central processing and therefore to be jointly processable 
