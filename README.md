@@ -1,7 +1,7 @@
 Since a paper is currently in work for this project, the full ReadMe will not be published until after publication.
 
 # Dynamic Sectorization in Multi-Panel Massive MIMO Systems
-- Dynamic user grouping in multi-panel massive MIMO scenario for 5G networks. 
+- Dynamic user grouping in multi-panel massive MIMO scenario for 5G/ Beyond 5G networks. 
 
 ## Scenario 
 
@@ -20,4 +20,4 @@ Since a paper is currently in work for this project, the full ReadMe will not be
 
 - The developed algorithm is a combination of solving a Mixed Integer Program followed by a greedy local optimization technique
 - The approach boosts the sum-rate in a practical downlink scenario by over 70% compared to the centralized scheme
-- Small runtime makes the algorithm useable for practical applications
+- Short runtime makes the algorithm useable for practical applications
