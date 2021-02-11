@@ -12,7 +12,7 @@
 - It is aimed to dynamically choose the partition which leads to the best Downlink spectral efficiency
 - The precoders are assumed to be Matched Filter precoders, as it is the handiest of the standard precoders and the focus of the work is on the sectorization aspect. Other precoders certainly have the potential to further boost performance
 
-![Farmers Market Finder Demo](ImagesDynamicSec/Scenario.gif)
+![Farmers Market Finder Demo](ImagesDynamicSec/scenario.gif)
 
 
 ## Simulation Results
