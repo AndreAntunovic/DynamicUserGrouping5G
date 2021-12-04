@@ -20,4 +20,3 @@ This work has been published in 2021 IEEE 4th 5G World Forum (5GWF). Find the pu
 
 - The developed algorithm is a combination of a Mixed Integer Program followed by a greedy local optimization technique
 - The approach boosts the sum-rate in a practical downlink scenario by over 70% compared to the centralized scheme
-- Short runtime makes the algorithm useable for practical applications
