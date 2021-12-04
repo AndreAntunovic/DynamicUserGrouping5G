@@ -1,4 +1,4 @@
-Since a paper is currently in work for this project, the full ReadMe will not be published until after publication.
+This work has been published in 2021 IEEE 4th 5G World Forum (5GWF). Find the publication to this work here: https://ieeexplore.ieee.org/document/9605020
 
 # Dynamic Sectorization in Multi-Panel Massive MIMO Systems
 - Dynamic user grouping in multi-panel massive MIMO scenario for 5G/ Beyond 5G networks. 
